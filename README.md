@@ -1,5 +1,4 @@
-# Flexbox-y-CSS-Grid
-Proyecto me enfoqué en construir el menu para una pizzeria
+# Flexbox-y-CSS-Grid Proyecto me enfoqué en construir el menu para una pizzeria, este sitio web en donde estás viendo este contenido está construido con HTML y CSS.
 # Indice
 1. Introducción
 2. Descripcion
